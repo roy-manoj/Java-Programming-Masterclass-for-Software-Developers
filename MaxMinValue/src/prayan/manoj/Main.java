@@ -1,4 +1,4 @@
-package manoj.prayan;
+package prayan.manoj;
 
 public class Main {
 
